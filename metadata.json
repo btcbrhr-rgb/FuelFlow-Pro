@@ -1,0 +1,6 @@
+{
+  "name": "FuelFlow Pro",
+  "description": "ระบบสต๊อกและเบิกจ่ายน้ำมันอัจฉริยะ - ติดตามปริมาณน้ำมันดีเซลไซต์งานก่อสร้าง วงเงินบัตรเงินสด บัญชีรับเข้าคลังและตัดจ่ายรายวัน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
